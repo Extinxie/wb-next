@@ -1,0 +1,10 @@
+{
+    "header": {
+        "catalog": "Каталог",
+        "searchPlaceHolder": "Поиск на Озон...",
+        "signIn": "Войти",
+        "orders": "Заказы",
+        "favorite": "Избранное",
+        "cart": "Коризна"
+    }
+}

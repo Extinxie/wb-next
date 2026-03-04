@@ -1,0 +1,10 @@
+{
+    "header": {
+        "catalog": "Catalog",
+        "searchPlaceHolder": "Search on Ozon...",
+        "sign in": "Sign In",
+        "orders": "Orders",
+        "favorite": "Favorites",
+        "cart": "Cart"
+    }
+}
